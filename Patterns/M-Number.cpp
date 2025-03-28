@@ -2,9 +2,9 @@
 using namespace std;
 
 /*
-                1            1
-                12        21
-                123    321
+                1      1
+                12    21
+                123  321
                 12344321
 
                 limit for spaces: 2*n - 2*(i+1) = 2*(n-(i+1))
