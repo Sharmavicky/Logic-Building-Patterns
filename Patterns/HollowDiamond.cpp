@@ -12,7 +12,7 @@ using namespace std;
                 * * *             * * *
                 * * * *       * * * *
                 * * * * * * * * * *
-                
+            
                 outer loop -> 2*n
 
                 spaces (first half) -> i*2
