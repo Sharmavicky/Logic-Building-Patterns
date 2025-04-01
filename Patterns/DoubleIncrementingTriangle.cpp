@@ -17,13 +17,13 @@ class DoubleIncrementingTriangle {
                 cout << num << " ";
                 num++;
             }
-            num++;
+            cout << endl;
         }
     };
 };
 
 // Main Function
 int main() {
-    DoubleIncrementingTriangle().doubleIncrementingTriangle();
+    DoubleIncrementingTriangle().doubleIncrementingTriangle(5);
     return 0;
 }
