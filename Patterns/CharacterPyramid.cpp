@@ -3,9 +3,9 @@ using namespace std;
 
 /*
                 A
-             A B A
-          A B C B A
-       A B C D C B A
+              A B A
+            A B C B A
+          A B C D C B A
 
        outer loop -> n
        spaces -> n-i-1
