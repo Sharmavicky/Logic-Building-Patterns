@@ -38,6 +38,6 @@ class M_Number {
 
 // Main Function
 int main() {
-    M_Number().m_number(10);
+    M_Number().m_number(5);
     return 0;
 }
